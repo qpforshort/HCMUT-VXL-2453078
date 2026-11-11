@@ -1,0 +1,13 @@
+sch.c:19:16:time_before	16	static
+sch.c:25:13:insert_task	56	static
+sch.c:41:13:remove_at	40	static
+sch.c:51:6:SCH_Init	32	static
+sch.c:64:6:SCH_Update	4	static
+sch.c:70:10:SCH_GetTicks	4	static
+sch.c:76:10:get_time	8	static
+sch.c:82:10:SCH_Add_Task	40	static
+sch.c:109:6:SCH_Dispatch_Tasks	32	static
+sch.c:128:9:SCH_Delete_Task	24	static
+sch.c:141:9:SCH_GetTaskCount	4	static
+sch.c:146:11:SCH_GetLastError	4	static
+sch.c:151:6:deleteAllTasks	4	static

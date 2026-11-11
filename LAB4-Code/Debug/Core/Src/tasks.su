@@ -1,0 +1,16 @@
+tasks.c:21:13:start_tx	8	static
+tasks.c:34:13:log_event	112	static,ignoring_inline_asm
+tasks.c:66:6:HAL_UART_TxCpltCallback	16	static
+tasks.c:76:6:task1	8	static
+tasks.c:77:6:task2	8	static
+tasks.c:78:6:task3	8	static
+tasks.c:79:6:task4	8	static
+tasks.c:80:6:task5	8	static
+tasks.c:82:13:trace_tick	4	static
+tasks.c:89:13:shot_a	8	static
+tasks.c:90:13:shot_b	8	static
+tasks.c:91:13:shot_c	8	static
+tasks.c:92:13:should_not_run	8	static
+tasks.c:93:13:cancel_task	8	static
+tasks.c:98:17:add_checked	32	static
+tasks.c:120:6:App_Init	8	static
